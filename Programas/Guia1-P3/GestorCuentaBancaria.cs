@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 
 namespace Guia1_P3
 {
-    class Program
+    public class GestorCuentaBancaria
     {
-        static void Main(string[] args)
-        {
-            Menu menu = new Menu();
-            menu.interfaz();
-
-        }
     }
 }
