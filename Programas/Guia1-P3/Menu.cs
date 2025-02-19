@@ -45,6 +45,7 @@ namespace Guia1_P3
                     case 3:
                         Console.Clear();
                         GestorCuentaBancaria banc = new GestorCuentaBancaria();
+                        banc.Ejecutar();
 
                         break;
                     case 4:
