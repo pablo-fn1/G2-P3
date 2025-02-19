@@ -1,0 +1,17 @@
+# 🛑 Archivos y carpetas de Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.db
+*.cache
+*.log
+
+# 🛑 Carpetas de compilación
+bin/
+obj/
+Debug/
+Release/
+
+# 🛑 Configuraciones locales
+*.json
